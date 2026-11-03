@@ -3,43 +3,70 @@
 
 ## 1. Introduction
 
-NYXORA aims to explore a new generation of global financial blockchain infrastructure.
+NYXORA is an independent blockchain development project exploring open, secure, and high-performance global financial infrastructure.
 
-## 2. Core Principles
+Our vision is to build a blockchain ecosystem accessible to developers and users around the world.
 
-- Decentralization
-- Security
-- Transparency
-- Scalability
-- Interoperability
+## 2. Vision
 
-## 3. Network Vision
+To build an open financial infrastructure for a connected world.
 
-NYXORA is researching an EVM-compatible Layer 1 architecture.
+## 3. Mission
 
-The network aims to support:
+- Develop reliable blockchain technology.
+- Explore scalable network architecture.
+- Support decentralized applications.
+- Empower global blockchain developers.
+- Promote transparency and security.
+
+## 4. Core Principles
+
+### Decentralization
+Build infrastructure that aims to reduce reliance on a single central authority.
+
+### Security
+Prioritize secure architecture, testing, and independent security reviews.
+
+### Transparency
+Maintain open documentation and verifiable development progress.
+
+### Scalability
+Research efficient transaction processing and network growth.
+
+### Interoperability
+Explore compatibility with other blockchain ecosystems.
+
+## 5. Network Vision
+
+NYXORA is researching an EVM-compatible Layer 1 blockchain architecture.
+
+Potential capabilities include:
 
 - Digital asset transfers
 - Smart contracts
 - Decentralized applications
 - Financial infrastructure
 
-## 4. Global Strategy
+These capabilities are planned and have not yet been implemented.
 
-NYXORA aims to support developers and users internationally through open documentation and accessible development tools.
+## 6. Global Strategy
 
-## 5. Development Philosophy
+NYXORA aims to support international developers through open-source development, English documentation, and accessible tools.
+
+## 7. Development Philosophy
 
 Build carefully.
 Test continuously.
 Prioritize security.
+Be transparent.
 Never promise unverified performance.
 
-## 6. Long-Term Goal
+## 8. Long-Term Goal
 
 Develop a secure, open, and sustainable blockchain ecosystem.
 
 ---
 
-NYXORA  
+NYXORA
+
 Beyond the Visible.
